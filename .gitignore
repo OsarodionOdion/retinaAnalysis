@@ -1,5 +1,5 @@
-Data/test_images
-Data/train_images
+Data/test_images/
+Data/train_images/
 convertImages/all_images
 convertImages/all_imagesjpeg
 convertImages/.ipynb_checkpoints
